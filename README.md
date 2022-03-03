@@ -1,3 +1,5 @@
+# This is a fork from before the project went closed source, it should be a version very close to before the original repo removed the last year of changes before going closed source.
+
 # Database Client for Visual Studio Code
 
 <p align="center">
